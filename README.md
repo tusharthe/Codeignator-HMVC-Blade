@@ -15,14 +15,14 @@ By Defalut HMVC and Blade template engine was enable. If you want only HMVC or o
 ### Some Configuration
 ```markdown
 - **If you want ONLY HMVC then, Set HMVC_enable to TRUE and Blade_enable to FALSE.**
-$config['HMVC_enable'] = `TRUE`;
-$config['Blade_enable'] = `FALSE`;
+$config['HMVC_enable'] = TRUE;
+$config['Blade_enable'] = FALSE;
 ## Remember to extend Class, You can extends any class MX_Controller OR MY_Controller
 
 
 - **If you want ONLY BLADE Template Enginee then, Set HMVC_enable to FALSE and Blade_enable to TRUE.**
-$config['HMVC_enable'] = `FALSE`;
-$config['Blade_enable'] = `TRUE`;
+$config['HMVC_enable'] = FALSE;
+$config['Blade_enable'] = TRUE;
 ## You set  HMVC_enable to FALSE, then also you have to extand MY_Controller Class, 
 so you can able to use blade template enginee.
 ```
