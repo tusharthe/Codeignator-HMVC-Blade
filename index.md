@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Codeignator-HMVC-Blade
 
 You can use the [editor on GitHub](https://github.com/tusharthe/Codeignator-HMVC-Blade/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
